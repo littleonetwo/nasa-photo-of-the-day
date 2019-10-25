@@ -31,3 +31,39 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+
+  width: 70%;
+  margin: 0 15%;
+  background-color: black;
+}
+
+.inner-container{
+  width:90%;
+  margin: 0 5%;
+}
+
+.author-stuff h2, .author-stuff h4{
+  margin: 10px 0;
+}
+
+.author-stuff p{
+  margin: 2px 0;
+
+}
+
+.date h4{
+  margin: 5px 0;
+
+}
+.description{
+  width: 80%;
+  margin:  20px 10%;
+  padding: 20px;
+  background-color: darkgrey;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
